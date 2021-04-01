@@ -23,8 +23,9 @@ A simple Telegram userbot based on Telethon .
   - [check this](https://catuserbot.gitbook.io/catuserbot/tutorial/self-host)
   
 ## Support
-   <a href="https://t.me/catuserbot17"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
-   <a href="https://t.me/catuserbot_support"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/Aslam_plugins"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/AslamOP_userbot"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/AslamOPuserbot_support"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
    
 ## Inspiration
    - [X-tra-Telegram](https://github.com/Dark-Princ3/X-tra-Telegram)
@@ -54,5 +55,6 @@ Thanks for using our bot 😺
 
 ## Credits
    - Special thanks to [LonamiWebs](https://github.com/LonamiWebs/Telethon/) for Telethon libraray
-   - To all devs of these [Userbots](https://github.com/sandy1709/catuserbot/tree/bugs#inspiration)
-   - Finally to all [contributors of Catuserbot](https://github.com/sandy1709/catuserbot/graphs/contributors)
+   - To all devs of these [Userbots](https://github.com/AslamOP/AslamOP_userbot/tree/bugs#inspiration)
+   - Finally to all [contributors of AslamOP_userbot](https://github.com/AslamOP/AslamOP_userbot/graphs/contributors)
+   - TO cat userbot big thanks[ Catuserbot](https://githug.com/sandy1709/catuserbot)
