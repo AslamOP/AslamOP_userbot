@@ -23,9 +23,9 @@ A simple Telegram userbot based on Telethon .
   - [check this](https://catuserbot.gitbook.io/catuserbot/tutorial/self-host)
   
 ## Support
-   <a href="https://t.me/Aslam_plugins"><img src="https://img.shields.io/badge/Plugin_channel-yes-green&style=flat-square?&logo=telegram" width=220px></a></p>
-   <a href="https://t.me/AslamOP_userbot"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-yellow&style=flat-square?&logo=telegram" width=220px></a></p>
-   <a href="https://t.me/AslamOPuserbot_support"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-blue&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/Aslam_plugins"><img src="https://img.shields.io/badge/Plugin_channel-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/AslamOP_userbot"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-yellow?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/AslamOPuserbot_support"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-blue?&style=flat-square?&logo=telegram" width=220px></a></p>
    
 ## Inspiration
    - [X-tra-Telegram](https://github.com/Dark-Princ3/X-tra-Telegram)
