@@ -1,5 +1,5 @@
 # coded by @aslam_the_pro_coder 
-# plugin for AslamOP_userbot
+# plugin for OP_userbot
 
 import asyncio
 import os
@@ -249,7 +249,7 @@ CMD_HELP.update(
     \n\n  •  **Syntax : **`.yts query`/`.yts count query`\
     \n  •  **Function : **__Fetches youtube search results with views and duration with required no of count results by default it fetches 10 results__\
     \n\n  •  **Syntax : **`.insta` <link>\
-    \n  •  **Function : **__Downloads the video from the given instagram link__\\n\n **Join :** @AslamOPuserbot_support
+    \n  •  **Function : **__Downloads the video from the given instagram link__\\n\n **Join :** @OP_Userbot_support
     "
     }
 )
