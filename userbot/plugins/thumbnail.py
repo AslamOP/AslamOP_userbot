@@ -1,6 +1,5 @@
-# Thumbnail Utilities ported from uniborg
-# credits @spechide
-
+# OP_Userbot 
+# by @Aslam_the_pro_coder
 import os
 
 from hachoir.metadata import extractMetadata
@@ -100,6 +99,6 @@ CMD_HELP.update(
     \n**Usage : **To clear Thumbnail no longer you uploads uses custom thumbanail\
     \n\n**Syntax : **`.getthumb`\
     \n**Usage : **To get thumbnail of given video or gives your present thumbnail\
-    "
+    \n**Join : ** @OP_Userbot_support"
     }
 )
